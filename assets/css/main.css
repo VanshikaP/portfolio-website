@@ -2364,6 +2364,7 @@ input, select, textarea {
 					top: 20px;
 					margin: -50px 0 50px -40px;
 					width: auto;
+					height: 100px;
 				}
 
 				.box.style1 {
